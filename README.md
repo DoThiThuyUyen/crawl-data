@@ -15,8 +15,8 @@ Make sure you have Python installed (Python 3.x recommended). You also need to i
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/job-scraper.git
-   cd job-scraper
+   git clone https://github.com/DoThiThuyUyen/crawl-data.git
+   cd crawl-data
    ```
 2. Install dependencies:
    ```bash
@@ -34,7 +34,6 @@ Make sure you have Python installed (Python 3.x recommended). You also need to i
 This project requires the following Python libraries:
 - `selenium`
 - `webdriver-manager`
-- `csv`
 
 All dependencies are listed in `requirements.txt`.
 
